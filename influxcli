@@ -1,0 +1,3 @@
+#!/bin/bash
+#influx -database boost_kafka_lag -username admin -password ''
+influx -database boost_kafka_lag -username boost-kafka-lag -password ''
